@@ -1,5 +1,5 @@
 import React from 'react'
-import FooterLink from "./FooterLinks/FooterLink"
+import FooterLink from "FooterLinks/FooterLink"
 import flag from '../../images/icons/flag.png'
 import Custom from './Custom'
 
